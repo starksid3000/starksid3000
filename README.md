@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @starksid3000
-- 👀 I’m interested in IoT, web development & Python
+- 👋 Hi, I’m Siddharth Dave
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning python for artifcial intelligent
-- 💞️ I’m looking to collaborate on web development and IoT
+- 💞️ I’m looking to collaborate on Software Development and AI
 - 📫 How to reach me contact me on email siddharthdave10@gmail.com
 
 <!---
